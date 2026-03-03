@@ -1,6 +1,8 @@
 {
   "rewrites": [
-    { "source": "/especializacion-marzo", "destination": "/index.html" },
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/especializacion-marzo",
+      "destination": "/"
+    }
   ]
 }
